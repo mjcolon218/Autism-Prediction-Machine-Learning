@@ -65,12 +65,9 @@ Build a binary classification model that:
 git clone https://github.com/your-repo/autism-prediction.git
 
 # 2. Launch Jupyter Notebook
-jupyter notebook Autism_Prediction_using_Machine_Learning_Notebook.ipynb
-```
+jupyter notebook Autism_Prediction_Refactored_With_Models.ipynb 
 
----
-
-## ✨ Credits
+Credits
 
 - Created by **Maurice J. Colon**
 - Educational use at **The Knowledge House**
