@@ -62,7 +62,7 @@ Build a binary classification model that:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-repo/autism-prediction.git
+git clone https://github.com/mjcolon218/autism-prediction.git
 
 # 2. Launch Jupyter Notebook
 jupyter notebook Autism_Prediction_Refactored_With_Models.ipynb
